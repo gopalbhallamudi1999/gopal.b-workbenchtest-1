@@ -1,0 +1,57 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"PROG",
+    "OBJ_NAME":"ZGCTSCONFLICTTEST1",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"ROPL081",
+    "SRCDEP":"",
+    "DEVCLASS":"ZGCTSCONFLICTTEST",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2026-02-04",
+    "CHECK_DATE":"2026-02-04",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TRDIR",
+  "data":
+  [
+   {
+    "NAME":"ZGCTSCONFLICTTEST1",
+    "VARCL":"X",
+    "SUBC":"1",
+    "RLOAD":"E",
+    "FIXPT":"X",
+    "UCCHECK":"X"
+   }
+  ]
+ },
+ {
+  "table":"TRDIRT",
+  "data":
+  [
+   {
+    "NAME":"ZGCTSCONFLICTTEST1",
+    "SPRSL":"E",
+    "TEXT":"Program ZGCTSCONFLICTTEST1"
+   }
+  ]
+ }
+]
