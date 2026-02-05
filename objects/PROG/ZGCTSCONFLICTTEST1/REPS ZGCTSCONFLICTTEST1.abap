@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZGCTSCONFLICTTEST1.
-WRITE "gcts conflict test1".
+WRITE 'gcts conflict test'.
